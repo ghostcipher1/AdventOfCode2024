@@ -1,0 +1,100 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.fs" />
+    <Compile Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.AssemblyInfo.fs" />
+    <Compile Include="AoC24Day1\ListDistanceCalc\Program.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\v17\DocumentLayout.backup.json" />
+    <Content Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\v17\DocumentLayout.json" />
+    <Content Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\large_list.txt" />
+    <Content Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\large_list_no_format.txt" />
+    <Content Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\ListDistanceCalc.deps.json" />
+    <Content Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\ListDistanceCalc.runtimeconfig.json" />
+    <Content Include="AoC24Day1\ListDistanceCalc\large_list_no_format.txt" />
+    <Content Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.fsproj.FileListAbsolute.txt" />
+    <Content Include="AoC24Day1\ListDistanceCalc\obj\ListDistanceCalc.fsproj.nuget.dgspec.json" />
+    <Content Include="AoC24Day1\ListDistanceCalc\obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AoC24Day10\" />
+    <Folder Include="AoC24Day11\" />
+    <Folder Include="AoC24Day12\" />
+    <Folder Include="AoC24Day13\" />
+    <Folder Include="AoC24Day14\" />
+    <Folder Include="AoC24Day15\" />
+    <Folder Include="AoC24Day16\" />
+    <Folder Include="AoC24Day17\" />
+    <Folder Include="AoC24Day18\" />
+    <Folder Include="AoC24Day19\" />
+    <Folder Include="AoC24Day20\" />
+    <Folder Include="AoC24Day21\" />
+    <Folder Include="AoC24Day22\" />
+    <Folder Include="AoC24Day23\" />
+    <Folder Include="AoC24Day24\" />
+    <Folder Include="AoC24Day25\" />
+    <Folder Include="AoC24Day2\" />
+    <Folder Include="AoC24Day3\" />
+    <Folder Include="AoC24Day4\" />
+    <Folder Include="AoC24Day5\" />
+    <Folder Include="AoC24Day6\" />
+    <Folder Include="AoC24Day7\" />
+    <Folder Include="AoC24Day8\" />
+    <Folder Include="AoC24Day9\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\CopilotIndices\17.12.38.29086\CodeChunks.db" />
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\CopilotIndices\17.12.38.29086\SemanticSymbols.db" />
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\CopilotIndices\17.12.38.29086\SemanticSymbols.db-shm" />
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\CopilotIndices\17.12.38.29086\SemanticSymbols.db-wal" />
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\FileContentIndex\2f2258d7-edd0-4f1d-bf4c-b41233c52d82.vsidx" />
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\FileContentIndex\add6e42a-7d59-4b9f-a251-25920c27d58f.vsidx" />
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\FileContentIndex\b556d9ed-1de8-42d5-afde-08c7508a3515.vsidx" />
+    <None Include="AoC24Day1\ListDistanceCalc\.vs\ListDistanceCalc\v17\.futdcache.v2" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\cs\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\de\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\es\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\fr\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\FSharp.Core.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\it\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\ja\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\ko\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\ListDistanceCalc.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\ListDistanceCalc.exe" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\ListDistanceCalc.pdb" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\pl\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\pt-BR\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\ru\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\tr\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\zh-Hans\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\bin\Debug\net9.0\zh-Hant\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\ListDistanceCalc.fsproj" />
+    <None Include="AoC24Day1\ListDistanceCalc\ListDistanceCalc.sln" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\apphost.exe" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDist.E86314FE.Up2Date" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.AssemblyInfoInputs.cache" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.assets.cache" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.fsproj.AssemblyReference.cache" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.fsproj.CoreCompileInputs.cache" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.genruntimeconfig.cache" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.pdb" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\refint\ListDistanceCalc.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ref\ListDistanceCalc.dll" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\ListDistanceCalc.fsproj.nuget.g.props" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\ListDistanceCalc.fsproj.nuget.g.targets" />
+    <None Include="AoC24Day1\ListDistanceCalc\obj\project.nuget.cache" />
+  </ItemGroup>
+
+</Project>
