@@ -9,6 +9,9 @@
     <Compile Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.fs" />
     <Compile Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.AssemblyInfo.fs" />
     <Compile Include="AoC24Day1\ListDistanceCalc\Program.fs" />
+    <Compile Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.fs" />
+    <Compile Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.AssemblyInfo.fs" />
+    <Compile Include="AoC24Day2\ReportSafety\Program.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
@@ -23,6 +26,18 @@
     <Content Include="AoC24Day1\ListDistanceCalc\obj\Debug\net9.0\ListDistanceCalc.fsproj.FileListAbsolute.txt" />
     <Content Include="AoC24Day1\ListDistanceCalc\obj\ListDistanceCalc.fsproj.nuget.dgspec.json" />
     <Content Include="AoC24Day1\ListDistanceCalc\obj\project.assets.json" />
+    <Content Include="AoC24Day2\ReportSafety\.vs\ReportSafety\v17\DocumentLayout.backup.json" />
+    <Content Include="AoC24Day2\ReportSafety\.vs\ReportSafety\v17\DocumentLayout.json" />
+    <Content Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\input.txt" />
+    <Content Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\ReportSafety.deps.json" />
+    <Content Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\ReportSafety.runtimeconfig.json" />
+    <Content Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\test_input.txt" />
+    <Content Include="AoC24Day2\ReportSafety\input.txt" />
+    <Content Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.fsproj.FileListAbsolute.txt" />
+    <Content Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.sourcelink.json" />
+    <Content Include="AoC24Day2\ReportSafety\obj\project.assets.json" />
+    <Content Include="AoC24Day2\ReportSafety\obj\ReportSafety.fsproj.nuget.dgspec.json" />
+    <Content Include="AoC24Day2\ReportSafety\test_input.txt" />
   </ItemGroup>
 
   <ItemGroup>
@@ -42,7 +57,6 @@
     <Folder Include="AoC24Day23\" />
     <Folder Include="AoC24Day24\" />
     <Folder Include="AoC24Day25\" />
-    <Folder Include="AoC24Day2\" />
     <Folder Include="AoC24Day3\" />
     <Folder Include="AoC24Day4\" />
     <Folder Include="AoC24Day5\" />
@@ -95,6 +109,47 @@
     <None Include="AoC24Day1\ListDistanceCalc\obj\ListDistanceCalc.fsproj.nuget.g.props" />
     <None Include="AoC24Day1\ListDistanceCalc\obj\ListDistanceCalc.fsproj.nuget.g.targets" />
     <None Include="AoC24Day1\ListDistanceCalc\obj\project.nuget.cache" />
+    <None Include="AoC24Day2\ReportSafety\.vs\ReportSafety\CopilotIndices\17.12.38.29086\CodeChunks.db" />
+    <None Include="AoC24Day2\ReportSafety\.vs\ReportSafety\CopilotIndices\17.12.38.29086\SemanticSymbols.db" />
+    <None Include="AoC24Day2\ReportSafety\.vs\ReportSafety\CopilotIndices\17.12.38.29086\SemanticSymbols.db-shm" />
+    <None Include="AoC24Day2\ReportSafety\.vs\ReportSafety\CopilotIndices\17.12.38.29086\SemanticSymbols.db-wal" />
+    <None Include="AoC24Day2\ReportSafety\.vs\ReportSafety\FileContentIndex\1b80fb3a-02c0-4407-ae38-ea646ffdae85.vsidx" />
+    <None Include="AoC24Day2\ReportSafety\.vs\ReportSafety\FileContentIndex\316d468e-988d-4830-b974-4e7f262ca110.vsidx" />
+    <None Include="AoC24Day2\ReportSafety\.vs\ReportSafety\FileContentIndex\f3f60f42-7d04-4a8a-aba6-824e11a3483a.vsidx" />
+    <None Include="AoC24Day2\ReportSafety\.vs\ReportSafety\v17\.futdcache.v2" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\cs\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\de\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\es\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\fr\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\FSharp.Core.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\it\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\ja\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\ko\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\pl\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\pt-BR\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\ReportSafety.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\ReportSafety.exe" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\ReportSafety.pdb" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\ru\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\tr\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\zh-Hans\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\bin\Debug\net9.0\zh-Hant\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\apphost.exe" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\refint\ReportSafety.dll" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ref\ReportSafety.dll" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSa.6DD352AA.Up2Date" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.AssemblyInfoInputs.cache" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.assets.cache" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.dll" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.fsproj.AssemblyReference.cache" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.fsproj.CoreCompileInputs.cache" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.genruntimeconfig.cache" />
+    <None Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.pdb" />
+    <None Include="AoC24Day2\ReportSafety\obj\project.nuget.cache" />
+    <None Include="AoC24Day2\ReportSafety\obj\ReportSafety.fsproj.nuget.g.props" />
+    <None Include="AoC24Day2\ReportSafety\obj\ReportSafety.fsproj.nuget.g.targets" />
+    <None Include="AoC24Day2\ReportSafety\ReportSafety.fsproj" />
+    <None Include="AoC24Day2\ReportSafety\ReportSafety.sln" />
   </ItemGroup>
 
 </Project>
