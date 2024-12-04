@@ -12,6 +12,9 @@
     <Compile Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.fs" />
     <Compile Include="AoC24Day2\ReportSafety\obj\Debug\net9.0\ReportSafety.AssemblyInfo.fs" />
     <Compile Include="AoC24Day2\ReportSafety\Program.fs" />
+    <Compile Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.fs" />
+    <Compile Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.AssemblyInfo.fs" />
+    <Compile Include="AoC24Day3\CorruptedMemory\Program.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
@@ -38,6 +41,24 @@
     <Content Include="AoC24Day2\ReportSafety\obj\project.assets.json" />
     <Content Include="AoC24Day2\ReportSafety\obj\ReportSafety.fsproj.nuget.dgspec.json" />
     <Content Include="AoC24Day2\ReportSafety\test_input.txt" />
+    <Content Include="AoC24Day3\CorruptedMemory\.idea\.idea.CorruptedMemory\.idea\encodings.xml" />
+    <Content Include="AoC24Day3\CorruptedMemory\.idea\.idea.CorruptedMemory\.idea\indexLayout.xml" />
+    <Content Include="AoC24Day3\CorruptedMemory\.idea\.idea.CorruptedMemory\.idea\projectSettingsUpdater.xml" />
+    <Content Include="AoC24Day3\CorruptedMemory\.idea\.idea.CorruptedMemory\.idea\vcs.xml" />
+    <Content Include="AoC24Day3\CorruptedMemory\.idea\.idea.CorruptedMemory\.idea\workspace.xml" />
+    <Content Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\v17\DocumentLayout.backup.json" />
+    <Content Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\v17\DocumentLayout.json" />
+    <Content Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\CorruptedMemory.deps.json" />
+    <Content Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\CorruptedMemory.runtimeconfig.json" />
+    <Content Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\corrupted_memory.txt" />
+    <Content Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\puzzle_input.txt" />
+    <Content Include="AoC24Day3\CorruptedMemory\corrupted_memory.txt" />
+    <Content Include="AoC24Day3\CorruptedMemory\obj\CorruptedMemory.fsproj.nuget.dgspec.json" />
+    <Content Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.fsproj.FileListAbsolute.txt" />
+    <Content Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.sourcelink.json" />
+    <Content Include="AoC24Day3\CorruptedMemory\obj\project.assets.json" />
+    <Content Include="AoC24Day3\CorruptedMemory\obj\project.packagespec.json" />
+    <Content Include="AoC24Day3\CorruptedMemory\puzzle_input.txt" />
   </ItemGroup>
 
   <ItemGroup>
@@ -57,7 +78,6 @@
     <Folder Include="AoC24Day23\" />
     <Folder Include="AoC24Day24\" />
     <Folder Include="AoC24Day25\" />
-    <Folder Include="AoC24Day3\" />
     <Folder Include="AoC24Day4\" />
     <Folder Include="AoC24Day5\" />
     <Folder Include="AoC24Day6\" />
@@ -150,6 +170,50 @@
     <None Include="AoC24Day2\ReportSafety\obj\ReportSafety.fsproj.nuget.g.targets" />
     <None Include="AoC24Day2\ReportSafety\ReportSafety.fsproj" />
     <None Include="AoC24Day2\ReportSafety\ReportSafety.sln" />
+    <None Include="AoC24Day3\CorruptedMemory\.idea\.idea.CorruptedMemory\.idea\.gitignore" />
+    <None Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\CopilotIndices\17.12.38.29086\CodeChunks.db" />
+    <None Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\CopilotIndices\17.12.38.29086\SemanticSymbols.db" />
+    <None Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\CopilotIndices\17.12.38.29086\SemanticSymbols.db-shm" />
+    <None Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\CopilotIndices\17.12.38.29086\SemanticSymbols.db-wal" />
+    <None Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\FileContentIndex\32d02a62-db74-4c21-a978-bfaf88df9178.vsidx" />
+    <None Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\FileContentIndex\471d7ede-3ec6-437c-a4e1-7f8ef5f55b3e.vsidx" />
+    <None Include="AoC24Day3\CorruptedMemory\.vs\CorruptedMemory\v17\.futdcache.v2" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\CorruptedMemory.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\CorruptedMemory.exe" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\CorruptedMemory.pdb" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\cs\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\de\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\es\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\fr\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\FSharp.Core.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\it\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\ja\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\ko\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\pl\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\pt-BR\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\ru\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\tr\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\zh-Hans\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\bin\Debug\net9.0\zh-Hant\FSharp.Core.resources.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\CorruptedMemory.fsproj" />
+    <None Include="AoC24Day3\CorruptedMemory\CorruptedMemory.sln" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\CorruptedMemory.fsproj.nuget.g.props" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\CorruptedMemory.fsproj.nuget.g.targets" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\apphost.exe" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\Corrupte.A3A4A134.Up2Date" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.AssemblyInfoInputs.cache" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.assets.cache" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.fsproj.AssemblyReference.cache" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.fsproj.CoreCompileInputs.cache" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.genruntimeconfig.cache" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\CorruptedMemory.pdb" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\refint\CorruptedMemory.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\Debug\net9.0\ref\CorruptedMemory.dll" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\project.nuget.cache" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\rider.project.model.nuget.info" />
+    <None Include="AoC24Day3\CorruptedMemory\obj\rider.project.restore.info" />
   </ItemGroup>
 
 </Project>
