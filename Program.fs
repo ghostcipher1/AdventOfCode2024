@@ -6,7 +6,7 @@ open System.IO
 
 // Set this to the solver for the day you want to solve
 // TODO: Select day from an argument or make a TUI menu to select a day
-let solver = Day7.solve
+let solver = Day7P2.solve
 
 // Set this to the input file you want to solve for
 // TODO: Select day from an argument or make a TUI menu to select a day
@@ -21,8 +21,7 @@ let input =
     |> Seq.toList
     
 // Solve both parts.  The solver produces a tuple of strings
-let (part1, part2) = solver input
+let part1 = solver input
 
 // Print the solution
 printfn "%s" (string part1)
-printfn "%s" (string part2)
